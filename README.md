@@ -1,6 +1,6 @@
 <div id=header align='center'>
   <h1>🅷🅴🅻🅻🅾 🅴🆅🅴🆁🆈🅾🅽🅴!</h1>
-  <h3>Я Арсений или @senyer7, начинающий Junior Frontend разработчик</h3>
+  <h3>Я Арсений (@senyer7) , начинающий Junior Frontend разработчик</h3>
   
 </div>
 
