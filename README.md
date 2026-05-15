@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Привет! Я Арсений
+# 👋 Привет, я Арсений
 
-### Junior Frontend Developer | React & TypeScript
+### Junior Full-stack Developer | React & TypeScript & Node.js & Bun & PostgreSQL
 
 [![Website](https://img.shields.io/badge/🌐_Портфолио-senyer7.ru-4A90E2?style=for-the-badge)](https://senyer7.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/senyer7)
@@ -16,9 +16,9 @@
 
 Привет! Я начинающий frontend-разработчик, который:
 
-- 💻 Создаю современные веб-приложения на **React** + **TypeScript**
-- 🎨 Уделяю внимание **UI/UX** и пишу чистый, поддерживаемый код
-- 📚 Постоянно учусь и развиваюсь в мире frontend-разработки
+- 💻 Создаю веб-приложения на **React** + **TypeScript** с использованием реляционной базы данных PostgreSQL
+- 🎨 Уделяю внимание **UI/UX**, чтобы пользователем было удобно пользоваться функционалом сайта
+- 📚 Постоянно учусь и развиваюсь в мире frontend-разработки и backend
 - 🌱 Активно изучаю современные подходы и best practices
 - 🎯 Стремлюсь к созданию качественных продуктов
 
@@ -30,6 +30,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Инструменты
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +62,7 @@
 ## 🎯 Текущие цели
 
 - Углубить знания в **React** и его экосистеме (Redux, Next.js)
-- Освоить **Backend** разработку (Node.js)
+- Продолжать осваивать **Backend** и углубляться в каждую деталь
 - Участвовать в Open Source проектах
 - Развивать навыки **System Design** и архитектуры
 
@@ -68,7 +74,7 @@
 
 ---
 
-## 🐍 Змейка ест мои коммиты!
+## 🐍 Змейка ест мои коммиты
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senyer7/senyer7/output/github-contribution-grid-snake-dark.svg">
