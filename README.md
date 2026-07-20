@@ -12,9 +12,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://bun.sh/icon.svg" height="43" alt="bun logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase" height="43" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/drizzle" height="43" alt="drizzle logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="43" alt="redis logo" />
   <img width="12" />
@@ -29,8 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="43" alt="express logo" />
-  <img src="https://bun.sh/icon.svg" height="43" alt="bun logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio" height="43" alt="socket.io logo" />
 </div>
 
 <div align="left">
