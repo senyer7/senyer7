@@ -1,84 +1,34 @@
-<div align="center">
+<h3 align="left">Fullstack Developer</h3>
 
-# 👋 Привет, я Арсений
+[![Website](https://img.shields.io/badge/Портфолио-senyer7.ru-4A90E2?style=for-the-badge)](https://senyer7.ru)
+[![Агора](https://img.shields.io/badge/Проект-Агора-8A2BE2?style=for-the-badge)](https://senyer7.ru)
 
-### Junior Full-stack Developer | React & TypeScript & Node.js & Bun & PostgreSQL
-
-[![Website](https://img.shields.io/badge/🌐_Портфолио-senyer7.ru-4A90E2?style=for-the-badge)](https://senyer7.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/senyer7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@senyer7.ru)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
 </div>
 
----
-
-## 🚀 Обо мне
-
-Привет! Я начинающий frontend-разработчик, который:
-
-- 💻 Создаю веб-приложения на **React** + **TypeScript** с использованием реляционной базы данных PostgreSQL
-- 🎨 Уделяю внимание **UI/UX**, чтобы пользователем было удобно пользоваться функционалом сайта
-- 📚 Постоянно учусь и развиваюсь в мире frontend-разработки и backend
-- 🌱 Активно изучаю современные подходы и best practices
-- 🎯 Стремлюсь к созданию качественных продуктов
-
-## 🛠️ Технологический стек
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Инструменты
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senyer7&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senyer7&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senyer7&theme=tokyonight&hide_border=true&locale=ru)
-
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=senyer7.senyer7&" />
 </div>
 
-## 💼 Проекты
+### Достижения
 
-Все мои проекты доступны на моём [персональном сайте](https://senyer7.ru)
-
-## 🎯 Текущие цели
-
-- Углубить знания в **React** и его экосистеме (Redux, Next.js)
-- Продолжать осваивать **Backend** и углубляться в каждую деталь
-- Участвовать в Open Source проектах
-- Развивать навыки **System Design** и архитектуры
-
-## 📫 Связаться со мной
-
-- 🌐 **Портфолио:** [senyer7.ru](https://senyer7.ru)
-- 💬 **Telegram:** [@senyer7](https://t.me/senyer7)
-- 📧 **Email:** contact@senyer7.ru
-
----
-
-## 🐍 Змейка ест мои коммиты
+**Премия Рунета 2025** — номинация «Будущее интернета», проект Time Surfing
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senyer7/senyer7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senyer7/senyer7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/senyer7/senyer7/output/github-contribution-grid-snake.svg">
 </picture>
-
